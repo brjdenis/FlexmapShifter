@@ -23,7 +23,7 @@ When saving data the structure of the file should be preserved. Check this manua
 
 ## Important note
 
-**If you are trying to modify flexmap columns, be sure you know what you are doing. Before using this program see the [licence](https://github.com/brjdenis/FlexmapShifter/blob/master/LICENSE) and make sure you understand it.**
+**Before using this program see the [licence](https://github.com/brjdenis/FlexmapShifter/blob/master/LICENSE) and make sure you understand it. The program comes with absolutely no guarantees of any king.**
 
 ## Details
 
