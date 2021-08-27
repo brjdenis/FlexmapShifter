@@ -1,0 +1,6 @@
+# Folders to ignore
+.vs/*
+obj/*
+
+#Files to ignore
+/Compiled/*.pdb
