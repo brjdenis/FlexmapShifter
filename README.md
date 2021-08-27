@@ -7,7 +7,7 @@ Simple .NETv4 app that can be used to preview Flexmap calibration files.
 ## Installation
 
 
-Copy FlexmapShifter.exe from folder "Compiled" to your computer. If you wish to compile the project, all the files are included in the repository. To run the program a preinstall .NET Framework v4 is needed. Usually, workstations already have this installed.
+Copy FlexmapShifter.exe from folder "Compiled" to your computer. If you wish to compile the project, all the files are included in the repository.
 
 ## How to use
 
