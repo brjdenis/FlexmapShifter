@@ -1,5 +1,5 @@
 # FlexmapShifther
-Simple .NETv4 app that can be used to preview and shift Flexmap calibration files on Elekta XVI workstation. No installation is needed. It uses resources that are already present on XVI workstation.
+Simple .NETv4 app that can be used to preview Flexmap calibration files on Elekta XVI workstation. No installation is needed. It uses resources that are already present on XVI workstation.
 
 ![image](image.png)
 
@@ -21,8 +21,12 @@ When saving data the structure of the file should be preserved. Check this manua
 
 ## Important note
 
-If you are trying to modify flexmap columns, be sure you know what you are doing. Before using this program see the [licence](https://synergyqatips.readthedocs.io/en/latest/) and make sure you understand it.
+If you are trying to modify flexmap columns, be sure you know what you are doing. Before using this program see the [licence](https://github.com/brjdenis/FlexmapShifter/blob/master/LICENSE) and make sure you understand it.
 
 ## Details
 
 Made with Windows Forms for .NET Framework v 4.0.  
+
+## LICENSE
+
+Published under the MIT license. 
