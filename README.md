@@ -8,7 +8,7 @@ It uses resources that are already present on XVI workstation, so you can use it
 
 ## Installation
 
-Copy FlexmapShifter.exe to your computer. If you wish to compile the project, all the files are included in the repository.
+Copy FlexmapShifter.exe from folder "Compiled" to your computer. If you wish to compile the project, all the files are included in the repository.
 
 ## How to use
 
