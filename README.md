@@ -23,7 +23,7 @@ When saving data the structure of the file should be preserved. Check this manua
 
 ## Important note
 
-**Before using this program see the [licence](https://github.com/brjdenis/FlexmapShifter/blob/master/LICENSE) and make sure you understand it. The program comes with absolutely no guarantees of any king.**
+**Before using this program see the [licence](https://github.com/brjdenis/FlexmapShifter/blob/master/LICENSE) and make sure you understand it. The program comes with absolutely no guarantees of any kind.**
 
 ## Details
 
